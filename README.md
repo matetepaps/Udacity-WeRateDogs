@@ -10,7 +10,7 @@ The dataset that i wrangling (and analyzing and visualizing) is the tweet archiv
 
 > Step 1: Gathering data
 
-> >Step 2: Assessing data
+> Step 2: Assessing data
 
 > Step 3: Cleaning data
 
@@ -18,6 +18,8 @@ The dataset that i wrangling (and analyzing and visualizing) is the tweet archiv
 
 > Step 5: Analyzing, and visualizing data
 
->Step 6: Reporting
+> Step 6: Reporting
+
 >> my data wrangling efforts
+
 >> my data analyses and visualizations
